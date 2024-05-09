@@ -1,8 +1,36 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# (Bank of Flatiron)
 
-Currently, two official plugins are available:
+#### Date, 2024/05/05
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### By collins Kipngeno
+
+## Description
+It's a webpage that shows Bot Battlr activities.
+
+## Installation
+You use git clone to be able to download the documents in the GitHub
+
+## Installation Requirements
+Git
+
+### Installation instruction
+
+Git clone https://
+
+
+
+# Live Link
+[Git](https://imcollins.github.io/bank-of-flatiron)
+
+## Technologies used
+Github
+Javascript
+Vite
+
+## Support and contact details
+git@github.com:https://imcollins.github.io/bank-of-flatiron
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2024.
