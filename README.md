@@ -1,5 +1,5 @@
 
-# (Bank of Flatiron)
+# (Bot Bottlr) 
 
 #### Date, 2024/05/05
 
@@ -16,20 +16,21 @@ Git
 
 ### Installation instruction
 
-Git clone https://
+Git clone https://imcollins.github.io/bot-battlr/
 
 
 
 # Live Link
-[Git](https://imcollins.github.io/bank-of-flatiron)
+[Git](https://imcollins.github.io/bot-battlr/)
 
 ## Technologies used
 Github
 Javascript
 Vite
+Tailwind
 
 ## Support and contact details
-git@github.com:https://imcollins.github.io/bank-of-flatiron
+git@github.com:https://https://imcollins.github.io/bot-battlr/
 
 ### License
 The content of this site is licensed under the MIT license
